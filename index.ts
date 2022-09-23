@@ -10,7 +10,7 @@ import './src/anti-crash.js';
 
 function authorized(key: string | undefined): boolean {
   //check if key is correct
-  if (key && key === totp(pass32)) return true;
+  if (key && key === pass32) return true;
   return false;
 }
 
