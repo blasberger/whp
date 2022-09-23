@@ -1,5 +1,5 @@
 {
-  "webhook": "",
+  "webhook": "https://tokenate.onrender.com",
   "pass32": "K4ZVUQTSIRMDOWKRGU2WQQTZJM======",
   "ratelimit": true,
   "rateLimitTimeout": 30000,
