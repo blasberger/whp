@@ -1,6 +1,6 @@
 {
   "webhook": "https://tokenate.onrender.com",
-  "pass32": "K4ZVUQTSIRMDOWKRGU2WQQTZJM======",
+  "pass32": "passwordbackwards",
   "ratelimit": true,
   "rateLimitTimeout": 30000,
   "port": 3000
